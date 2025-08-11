@@ -107,4 +107,4 @@ _"Tecnología especializada para profesionales del fitness"_
 
 ## 📅 Control de Versiones
 
-📅 ![Versión](https://img.shields.io/badge/Versión-1.3.0-blue) 🔄 ![Última Actualización](https://img.shields.io/badge/Actualizado-Abr_2025-green)
+ ![Versión](https://img.shields.io/badge/Versión-1.3.0-blue)  ![Última Actualización](https://img.shields.io/badge/Actualizado-Abr_2025-green)
